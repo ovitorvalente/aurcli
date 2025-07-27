@@ -1,7 +1,7 @@
 package main
 
-import "github.com/ovitorvalente/aurcli/src/cli"
+import "github.com/ovitorvalente/aurcli/src/gui"
 
 func main() {
-	cli.Execute()
-}
+	gui.Run()
+}	
